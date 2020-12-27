@@ -10,4 +10,6 @@ public class SpringbootRedisApplication {
         SpringApplication.run(SpringbootRedisApplication.class, args);
     }
 
+    public static void test(){}
+
 }
